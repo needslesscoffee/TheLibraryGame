@@ -4,36 +4,36 @@ A game made in free time to alleviate boredom.
 
 ##TODO (Everything still)
 
-    []Story
+*[]Story
 
-    [ ]Mechanics
+*[ ]Mechanics
     
-        [ ]Text based
+[ ]Text based
 
-        [ ]Turn based
+[ ]Turn based
 
-        [ ]Combat
+[ ]Combat
 
-            [ ]Spells and spell choices
+[ ]Spells and spell choices
 
-            [ ]Potions
+[ ]Potions
 
-            [ ]Enemies
+[ ]Enemies
 
-   [ ]Market
+*[ ]Market
 
-        [ ]Upgrades
+[ ]Upgrades
 
-        [ ]Spells
+[ ]Spells
 
-        [ ]Currency
+[ ]Currency
 
-        [ ]Potions
+[ ]Potions
 
-    [ ]Save game? (Will depend)
+*[ ]Save game? (Will depend)
 
   
-    [ ]Debug/Testing
+*[ ]Debug/Testing
 
-        [ ]God help our souls.
+[ ]God help our souls.
 
